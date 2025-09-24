@@ -11,6 +11,9 @@
 - **JWT Security**: Robust authentication to protect user data and ensure secure sessions.
 - **Modern UI/UX**: Clean and interactive user interface for a smooth and engaging experience.
 
+## Screenshot
+![TastyBites UI](screenshot.png)  
+
 ## Technologies Used
 
 - **Frontend**: 
